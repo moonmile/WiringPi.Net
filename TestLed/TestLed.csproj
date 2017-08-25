@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WiringPi.Core\WiringPi.Core.csproj" />
+    <ProjectReference Include="..\WiringPi.Std\WiringPi.Std.csproj" />
   </ItemGroup>
 
 </Project>
